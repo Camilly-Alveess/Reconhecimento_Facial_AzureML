@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "eb257054-0270-4dd1-acca-68bbaae9bfaf",
+  "content-length": "161",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a woman speaking into a microphone",
+    "confidence": 0.7365190982818604
+  },
+  "metadata": {
+    "width": 469,
+    "height": 319
+  }
+}
